@@ -9,3 +9,5 @@
 *So, bigdata is not a technology. It’s a problem we have to overcome with technology.
 
 ##The solution is DISTRIBUTED STORAGE: DISCOVERY OF SUPER COMPUTERS.##
+
+![](images/sucessfully_done.jpeg)
